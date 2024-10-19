@@ -1,0 +1,1 @@
+const square = (value) => value ** 2;
